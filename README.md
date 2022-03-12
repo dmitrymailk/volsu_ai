@@ -61,3 +61,7 @@ pip freeze > requirements.txt
 ```
 "jupyter.experimental.debugging": true,
 ```
+
+## Sklearn
+
+- [list of metrics](https://scikit-learn.org/stable/modules/model_evaluation.html#common-cases-predefined-values)
