@@ -1,0 +1,1 @@
+.\volsu_ai\Scripts\Activate.ps1
