@@ -48,3 +48,14 @@ python -m venv volsu_ai
 ```
 
 - [gitignore for python environments](https://github.com/github/gitignore/blob/main/Python.gitignore)
+- [save packages to file](https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt)
+
+```
+pip freeze > requirements.txt
+```
+
+- [vs code enable debugging in jupyter notebooks](https://medium.com/geekculture/debug-jupyter-notebooks-in-vscode-21b2be259f9d)
+
+```
+"jupyter.experimental.debugging": true,
+```
