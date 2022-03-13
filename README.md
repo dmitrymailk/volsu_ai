@@ -23,6 +23,10 @@
   - В методе ближайших соседей посчитать для числа соседей 1 и 3.
 - Сравнить и сделать выводы. Реализация на языке Python. Не забудьте установить библиотеку scikit-learn.
 
+### Теория
+
+- [Linear Regression and Gradient Descent Using Only Numpy](https://towardsdatascience.com/linear-regression-and-gradient-descent-using-only-numpy-53104a834f75)
+
 ### Lab 2
 
 ### Оригинал
