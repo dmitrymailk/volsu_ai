@@ -73,3 +73,11 @@ pip freeze > requirements.txt
 ## Sklearn
 
 - [list of metrics](https://scikit-learn.org/stable/modules/model_evaluation.html#common-cases-predefined-values)
+
+# Pytorch
+
+Install pytorch
+
+```
+pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio===0.11.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+```
