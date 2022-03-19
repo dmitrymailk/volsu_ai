@@ -154,3 +154,5 @@ cython_debug/
 volsu_ai/
 .idea/
 data/
+wandb/
+artifacts/
